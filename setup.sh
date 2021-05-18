@@ -6,4 +6,4 @@ mkdir -p ~/.streamlit/
               enableCORS = false\n\
               \n\
               " > ~/.streamlit/config.toml
-S
+
